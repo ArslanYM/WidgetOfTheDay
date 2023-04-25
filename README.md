@@ -6,8 +6,8 @@ This repositary contains the list and code for every new Flutter Widget.
 
 - [Container](./Widgets/Container.md)
 - [Expanded](./Widgets/Expanded.md)
-- [Column]()
-- [Row]()
+- [Column](./Widgets/Column.md)
+- [Row](./Widgets/Row.md)
 - [Widget name]()
 - [Widget name]()
 - [Widget name]()
